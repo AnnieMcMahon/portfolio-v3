@@ -3,6 +3,6 @@ This is a place holder for all my coding projects and certificates. This website
 
 Technology used: CSS, TypeScript, React
 
-Web page: [https://anniemcmahon.github.io/portfolio3](https://anniemcmahon.github.io/portfolio3/)
+Web page: [https://anniemcmahon.github.io/portfolio-v3](https://anniemcmahon.github.io/portfolio-v3/)
 
 
