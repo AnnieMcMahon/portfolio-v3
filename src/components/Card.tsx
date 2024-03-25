@@ -1,14 +1,16 @@
 import { CardFormat } from "../App";
+import {useState} from "react";
 
 interface Props {
   card: CardFormat;
-  handleClick: React.MouseEventHandler<HTMLDivElement>;
-  flip: string;
 }
 
-const Card = ({ card, handleClick, flip }: Props) => {
+const Card = ({ card }: Props) => {
+  const [flip, setFlip] = useState(false);
   return (
-    <div className={flip} onClick={handleClick}>
+    <div 
+      className={flip ? "card flip" : "card"} 
+      onClick={() => { setFlip(!flip)}}>
       <div className="card-inner">
         <div className="front">
           <h3>{card.title}</h3>
