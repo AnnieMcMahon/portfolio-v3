@@ -95,7 +95,7 @@ export default [
     summary: "The purpose of this project was to generate random messages using JavaScript coding. This was my first JavaScript project on Codecademy.",
     gitHubLink: "https://github.com/AnnieMcMahon/mixed_messages",
     gitHubTitle: "mixed_messages",
-    webPageLink: "https://anniemcmahon.github.io/film-finder/",
+    webPageLink: "https://anniemcmahon.github.io/mixed_messages/",
     webPageTitle: "mixed_messages"
    },
    {
@@ -104,7 +104,7 @@ export default [
     image: "images/rock-paper-scissors.png",
     technology: "HTML, CSS, JavaScript",
     summary: "I followed a FreeCodeCamp tutorial to build this classic game from scratch. I then refactored to JS6, added a reset button, and customized it to make it more responsive.",
-    gitHubLink: "https://github.com/AnnieMcMahon/film-finder",
+    gitHubLink: "https://github.com/AnnieMcMahon/rock-paper-scissors",
     gitHubTitle: "rock-paper-scissors",
     webPageLink: "https://anniemcmahon.github.io/rock-paper-scissors/",
     webPageTitle: "rock-paper-scissors"
