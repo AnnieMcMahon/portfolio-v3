@@ -90,13 +90,13 @@ export default [
    {
     id: 8,
     title: "Mad Lib Generator",
-    image: "images/mad-lib.png",
-    technology: "HTML, CSS, JavaScript",
-    summary: "The purpose of this project was to generate random messages using JavaScript coding. This was my first JavaScript project on Codecademy.",
-    gitHubLink: "https://github.com/AnnieMcMahon/mixed_messages",
-    gitHubTitle: "mixed_messages",
-    webPageLink: "https://anniemcmahon.github.io/mixed_messages/",
-    webPageTitle: "mixed_messages"
+    image: "images/mad-lib2.png",
+    technology: "CSS, Typescript, React",
+    summary: "This app generates a Mad Lib sentence using words chosen by the user or generated randomly.",
+    gitHubLink: "https://github.com/AnnieMcMahon/mad-lib",
+    gitHubTitle: "mad-lib",
+    webPageLink: "https://mad-lib-nine.vercel.app/",
+    webPageTitle: "mad-lib-nine.vercel.app"
    },
    {
     id: 9,
