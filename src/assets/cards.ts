@@ -3,11 +3,11 @@ export default [
     id: 0,
     title: "Ravenous",
     image: "images/ravenous.png",
-    technology: "HTML, CSS, JavaScript, React",
+    technology: "HTML, CSS, TypeScript, React",
     summary: "This site uses a Yelp API to generate restaurant suggestions based on location and keyword.",
-    gitHubLink: "https://github.com/AnnieMcMahon/ravenous",
+    gitHubLink: "https://github.com/AnnieMcMahon/ravenous-v2",
     gitHubTitle: "ravenous",
-    webPageLink: "https://ravenous-api-annie.netlify.app/",
+    webPageLink: "https://ravenous-v2.vercel.app/",
     webPageTitle: "ravenous-api-annie"
   },
   {
