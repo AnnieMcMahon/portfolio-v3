@@ -130,5 +130,16 @@ export default [
     gitHubTitle: "club",
     webPageLink: "https://anniemcmahon.github.io/club/",
     webPageTitle: "club"
+   },
+   {
+    id: 12,
+    title: "Tic-Tac-Toe",
+    image: "images/tic-tac-toe.png",
+    technology: "HTML, CSS, JavaScript, React",
+    summary: "I followed a tutorial from the React website to create this tic-tac-toe game, then I customized it.",
+    gitHubLink: "https://github.com/AnnieMcMahon/tic-tac-toe",
+    gitHubTitle: "tic-tac-toe",
+    webPageLink: "https://tic-tac-toe-annie.vercel.app/",
+    webPageTitle: "tic-tac-toe-annie.vercel.app"
    }
 ];
