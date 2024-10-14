@@ -78,39 +78,17 @@ export default [
    },
    {
     id: 7,
-    title: "Magic Eight Ball",
-    image: "images/magic-eight-ball.png",
-    technology: "HTML, CSS, JavaScript",
-    summary: "I created a simulation of the famous magic eight ball.",
-    gitHubLink: "https://github.com/AnnieMcMahon/magic-eight-ball",
-    gitHubTitle: "magic-eight-ball",
-    webPageLink: "https://anniemcmahon.github.io/magic-eight-ball/",
-    webPageTitle: "magic-eight-ball"
+    title: "Mini-Games",
+    image: "images/mini-games.png",
+    technology: "CSS, JavaScript, React, Next.JS",
+    summary: "This app allows user to play any of the mini-games I created.",
+    gitHubLink: "https://github.com/AnnieMcMahon/mini-games-v2",
+    gitHubTitle: "mini-games-v2",
+    webPageLink: "https://mini-games-v2.vercel.app/",
+    webPageTitle: "mini-games-v2.vercel.app"
    },
    {
     id: 8,
-    title: "Mad Lib Generator",
-    image: "images/mad-lib2.png",
-    technology: "CSS, Typescript, React",
-    summary: "This app generates a Mad Lib sentence using words chosen by the user or generated randomly.",
-    gitHubLink: "https://github.com/AnnieMcMahon/mad-lib",
-    gitHubTitle: "mad-lib",
-    webPageLink: "https://mad-lib-nine.vercel.app/",
-    webPageTitle: "mad-lib-nine.vercel.app"
-   },
-   {
-    id: 9,
-    title: "Rock Paper Scissors",
-    image: "images/rock-paper-scissors.png",
-    technology: "HTML, CSS, JavaScript",
-    summary: "I followed a FreeCodeCamp tutorial to build this classic game from scratch. I then refactored to JS6, added a reset button, and customized it to make it more responsive.",
-    gitHubLink: "https://github.com/AnnieMcMahon/rock-paper-scissors",
-    gitHubTitle: "rock-paper-scissors",
-    webPageLink: "https://anniemcmahon.github.io/rock-paper-scissors/",
-    webPageTitle: "rock-paper-scissors"
-   },
-   {
-    id: 10,
     title: "Company Website",
     image: "images/company.png",
     technology: "HTML, CSS",
@@ -121,7 +99,7 @@ export default [
     webPageTitle: "remodeling"
    },
    {
-    id: 11,
+    id: 9,
     title: "Club Website",
     image: "images/club.png",
     technology: "HTML, CSS",
@@ -130,16 +108,5 @@ export default [
     gitHubTitle: "club",
     webPageLink: "https://anniemcmahon.github.io/club/",
     webPageTitle: "club"
-   },
-   {
-    id: 12,
-    title: "Tic-Tac-Toe",
-    image: "images/tic-tac-toe.png",
-    technology: "HTML, CSS, JavaScript, React",
-    summary: "I followed a tutorial from the React website to create this tic-tac-toe game, then I customized it.",
-    gitHubLink: "https://github.com/AnnieMcMahon/tic-tac-toe",
-    gitHubTitle: "tic-tac-toe",
-    webPageLink: "https://tic-tac-toe-annie.vercel.app/",
-    webPageTitle: "tic-tac-toe-annie.vercel.app"
    }
 ];
