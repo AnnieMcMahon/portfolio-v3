@@ -148,8 +148,8 @@ h5 {
 
 .card {
   box-sizing: border-box;
-  width: 25rem;
-  height: 22rem;
+  width: 18rem;
+  height: 18rem;
   border: 2px solid black;
   border-radius: 5px;
   margin: 0.5rem;
@@ -159,14 +159,15 @@ h5 {
 }
 
 .card img {
-  max-width: 20rem;
-  max-height: 18rem;
+  max-width: 16rem;
+  max-height: 16rem;
   padding: 0.5rem;
 }
 
 .card p {
   text-align: left;
   padding: 0.5rem 1rem;
+  font-size: 0.8rem;
 }
 
 .front, .back {
