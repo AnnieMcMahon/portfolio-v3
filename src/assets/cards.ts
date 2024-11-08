@@ -58,12 +58,12 @@ export default [
     id: 5,
     title: "Film Finder",
     image: "images/film-finder.png",
-    technology: "HTML, CSS, JavaScript",
-    summary: "This is a project I had to do for Codecademy where users can get a random movie recommendation by selecting a genre. Some of the code was provided, but I completed it and modified it to make it my own.",
-    gitHubLink: "https://github.com/AnnieMcMahon/film-finder",
-    gitHubTitle: "film-finder",
-    webPageLink: "https://anniemcmahon.github.io/film-finder/",
-    webPageTitle: "film-finder"
+    technology: "CSS, JavaScript, React",
+    summary: "Users can get a random movie recommendation by selecting a genre. Some of the code was provided by Codecademy, but I modified it to make it my own. For this second version, I rebuilt the project using React.",
+    gitHubLink: "https://github.com/AnnieMcMahon/film-finder-v2",
+    gitHubTitle: "film-finder-v2",
+    webPageLink: "https://film-finder-v2.vercel.app/",
+    webPageTitle: "film-finder-v2.vercel.app"
    },
    {
     id: 6,
