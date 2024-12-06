@@ -1,6 +1,17 @@
 export default [
   {
     id: 0,
+    title: "WNC Hiking Hub",
+    image: "images/wnc-hiking-hub.png",
+    technology: "CSS, JavaScript, React, NextJS, Supabase, SQL",
+    summary: "This app allows users to create a free account, post a hike for others to join, or join a posted hike.",
+    gitHubLink: "https://github.com/AnnieMcMahon/wnc-hiking-hub-v3-db",
+    gitHubTitle: "wnc-hiking-hub-v3-db",
+    webPageLink: "https://wnc-hiking-hub-v3-db.vercel.app/",
+    webPageTitle: "wnc-hiking-hub-v3-db.vercel.app"
+  },
+  {
+    id: 1,
     title: "Mini-Games",
     image: "images/mini-games.png",
     technology: "CSS, JavaScript, React, Next.JS",
@@ -9,17 +20,6 @@ export default [
     gitHubTitle: "mini-games-v2",
     webPageLink: "https://mini-games-v2.vercel.app/",
     webPageTitle: "mini-games-v2.vercel.app"
-   },
-   {
-    id: 1,
-    title: "WNC Hiking Hub",
-    image: "images/wnc-hiking-hub.png",
-    technology: "CSS, JavaScript, React, NextJS",
-    summary: "This app will allow users to create a free account, post a hike for others to join, or join a posted hike. (WIP)",
-    gitHubLink: "https://github.com/AnnieMcMahon/wnc-hiking-hub-v2",
-    gitHubTitle: "wnc-hiking-hub-v2",
-    webPageLink: "https://wnc-hiking-hub-v2.vercel.app/",
-    webPageTitle: "wnc-hiking-hub-v2.vercel.app"
    },
   {
     id: 2,
